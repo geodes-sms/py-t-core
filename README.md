@@ -1,5 +1,5 @@
-# T-Core
-T-Core is a Python framework to building your own domain-specific, custom-built model transformation engines. It offers primitive transformation constructs that can be combined to define and encapsulate reusable model transformation idioms. The user can use existing transformation building blocks from an extensible library or define his own transformation units.
+# Py-T-Core
+Py-T-Core is a Python implementation of the [T-Core](http://rdcu.be/mE8D). T-Core is a framework to building your own domain-specific, custom-built model transformation engines. It offers primitive transformation constructs that can be combined to define and encapsulate reusable model transformation idioms. The user can use existing transformation building blocks from an extensible library or define his own transformation units.
 
 ## Features
 - Precondition and postcondition patterns to declaratively specify (graph transformation) rules.
